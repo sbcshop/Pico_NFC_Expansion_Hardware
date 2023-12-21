@@ -14,7 +14,7 @@
 
 ## Product License
 
-This is ***open source*** product. Kindly check LICENSE.md file for more information.
+This is ***open source*** product. Kindly check the LICENSE.md file for more information.
 
 Please contact support@sb-components.co.uk for technical support.
 <p align="center">
