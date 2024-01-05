@@ -5,7 +5,7 @@
 ### Repository Contents:
   - [/Design Data](https://github.com/sbcshop/Pico_NFC_Expansion_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
   - [/Mechanical Data](https://github.com/sbcshop/Pico_NFC_Expansion_Hardware/tree/main/Mechanical%20Dataa) - This directory contains Dimension, 3D and STEP files
-  - [ReadPi RFID Getting Started](https://github.com/sbcshop/Pico_NFC_Expansion_Software) - This repo contains ReadPi RFID Getting Started and Sample Codes.
+  - [Pico NFC Expansion RFID Getting Started](https://github.com/sbcshop/Pico_NFC_Expansion_Software) - This repo contains ReadPi RFID Getting Started and Sample Codes.
 
 ## Related Products
    * [ReadPi NFC](https://shop.sb-components.co.uk/products/readpi-an-rfid-nfc-reader-powered-with-raspberry-pi-pico-w?variant=40478483087443) - ReadPi with 13.56MHz NFC reader/writer powered by Raspberry Pi Pico W
